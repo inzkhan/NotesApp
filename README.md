@@ -1,0 +1,4 @@
+# NotesApp
+
+
+permalink: /index.html
